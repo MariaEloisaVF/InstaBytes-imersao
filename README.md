@@ -9,7 +9,6 @@ Este projeto é um exemplo de aplicação Node.js utilizando o framework Express
 * Node.js
 * Express
 * API do Google
-* [Outras tecnologias utilizadas]
 
 **Pré-requisitos:**
 
